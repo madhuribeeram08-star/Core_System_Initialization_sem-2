@@ -1,0 +1,11 @@
+\frametitle{C Code}
+\begin{lstlisting}
+    if (zero > 0) {
+        printf("Result: System is NON-MINIMUM PHASE (Zero in RHP).\n");
+    } else {
+        printf("Result: System is MINIMUM PHASE.\n");
+    }
+
+    return 0;
+}
+\end{lstlisting}
